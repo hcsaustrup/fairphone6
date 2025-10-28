@@ -1,14 +1,14 @@
 # My FairPhone 6 Notes
 
-## Applications
+## Apps
 
-### MitID
+### MitID 🇩🇰
 
 #### Missing link association
 
-Problem: Instead of the MitID app, a page opens in your browser.
+**Problem**: Instead of the MitID app, a page opens in your browser.
 
-Solution:
+**Solution**:
 
 * Go to Apps
 * Go to Default Apps
@@ -17,13 +17,13 @@ Solution:
 * Ensure "Open supported links" is enabled
 * Ensure any additional links are enabled too
 
-### MobilePay
+### MobilePay 🇩🇰 🇳🇴 🇸🇪
 
 #### Browser misbehaving
 
-Problem: "The authentication failed. Please try again later" during validation flow.
+**Problem**: "The authentication failed. Please try again later" during validation flow.
 
-Solution:
+**Solution**:
 
 * Force stop + clear data for Chrome
 * Select Chrome as default browser
@@ -35,6 +35,6 @@ Solution:
 
 #### Locked out
 
-Problem: Error E4005 (Account locked by MobilePay security)
+**Problem**: Error E4005 (Account locked by MobilePay security)
 
-Solution: Call/chat them to get it removed.
+**Solution**: Call/chat them to get it removed.

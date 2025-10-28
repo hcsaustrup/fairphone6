@@ -2,29 +2,30 @@
 
 ## Apps
 
-### MitID 🇩🇰
+### [MitID](https://play.google.com/store/apps/details?id=dk.mitid.app.android) 🇩🇰
 
 #### Missing link association
 
-**Problem**: Instead of the MitID app, a page opens in your browser.
+**Symptom**: Instead of the MitID app, a page opens in your browser.
 
 **Solution**:
 
-* Go to Apps
-* Go to Default Apps
-* Go to Opening links
-* Go to MitID
-* Ensure "Open supported links" is enabled
+* Go to *Apps*
+* Go to *Default Apps*
+* Go to *Opening links*
+* Go to *MitID*
+* Ensure *Open supported links* is enabled
 * Ensure any additional links are enabled too
 
-### MobilePay 🇩🇰 🇳🇴 🇸🇪
+### [MobilePay](https://play.google.com/store/apps/details?id=dk.danskebank.mobilepay) 🇩🇰 🇳🇴 🇸🇪
 
 #### Browser misbehaving
 
-**Problem**: "The authentication failed. Please try again later" during validation flow.
+**Symptom**: "*The authentication failed. Please try again later*" during validation flow.
 
 **Solution**:
 
+* Remove app from old phone (you can always reinstall on the old phone if everything else fails)
 * Force stop + clear data for Chrome
 * Select Chrome as default browser
 * Start Chrome and complete first-time wizard
@@ -35,6 +36,6 @@
 
 #### Locked out
 
-**Problem**: Error E4005 (Account locked by MobilePay security)
+**Symptom**: *Error E4005* (Account locked by MobilePay security)
 
-**Solution**: Call/chat them to get it removed.
+**Solution**: Call/[chat](https://mobilepay.dk/) them to get it removed.

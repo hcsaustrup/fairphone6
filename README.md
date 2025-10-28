@@ -1,5 +1,7 @@
 # My FairPhone 6 Notes
 
+These are my notes for the FairPhone 6 running **Google-enabled Android**. These notes may or may not be helpful if you're using the [/e/OS](https://e.foundation/e-os/) version.
+
 ## Apps
 
 ### [MitID](https://play.google.com/store/apps/details?id=dk.mitid.app.android) 🇩🇰

@@ -38,6 +38,6 @@ These are my notes for the FairPhone 6 running **Google-enabled Android**. These
 
 #### Locked out
 
-**Symptom**: *Error E4005* (Account locked by MobilePay security)
+**Symptom**: *Error E4005* (Account locked by MobilePay security - happens relatively quickly if you keep retrying)
 
 **Solution**: Call/[chat](https://mobilepay.dk/) them to get it removed.
